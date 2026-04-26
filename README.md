@@ -21,15 +21,14 @@
 ```java
 public class Mphele extends Developer {
 
-    String[] currentlyAt  = {"WeThinkCode_", "Mastering Spring Boot"};
-    String[] focusing_on  = {"Backend Engineering", "Data Pipelines", "Scalable APIs"};
+    String[] currentlyAt  = {"WeThinkCode_", "Mastering Software Development"};
+    String[] focusing_on  = {"Backend Engineering", "Scalable APIs"};
     String   belief       = "A well-designed API is the foundation of any great UX.";
-    String   foundation   = "CompTIA A+ certified — I see both sides: software & hardware";
+    String   foundation   = "CompTIA A+ certified , I see both sides: software & hardware";
 
-    String[] interests    = {"Fantasy Premier League (data nerd mode)", "Music", 
-                              "Sports", "Gaming", "Socioeconomics"};
+    String[] interests    = { "Music", "Sports", "Gaming", "Socioeconomics"};
 
-    String   superpower   = "Hackathons — I play to win every single one.";
+    String   superpower   = "Hackathons , I play to win every single one.";
 }
 ```
 
