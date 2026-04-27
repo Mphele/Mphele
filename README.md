@@ -11,6 +11,7 @@
 ![WeThinkCode_](https://img.shields.io/badge/WeThinkCode__-Student-FF6B35?style=flat-square)
 &nbsp;&nbsp;
 [![committers.top badge](https://user-badge.committers.top/south_africa/Mphele.svg)](https://user-badge.committers.top/south_africa/Mphele)
+[![wakatime](https://wakatime.com/badge/user/91a48b9f-09b6-4f31-99c1-25731537462e.svg)](https://wakatime.com/@Mphele)
 
 </div>
 
