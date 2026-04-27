@@ -70,7 +70,9 @@ func main() {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mphele&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mphele&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mphele&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=10&count_private=true&show_owner=true"/>
+
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Mphele&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9)](https://wakatime.com/@Mphele)
 
 </div>
 
