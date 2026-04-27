@@ -80,6 +80,8 @@ func main() {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mphele&theme=radical&hide_border=true&background=0d1117&ring=00d4aa&fire=FF6B35&currStreakLabel=00d4aa)](https://git.io/streak-stats)
 
+[![Mphele's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mphele&bg_color=0d1117&color=00d4aa&line=00d4aa&point=FF6B35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
