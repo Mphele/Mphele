@@ -28,7 +28,7 @@ type Mphele struct {
     Belief       string
     Foundation   string
     Interests    []string
-    Superpower   string
+    Superpowers   string
 }
 
 func main() {
