@@ -71,7 +71,8 @@ func main() {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mphele&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mphele&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=10&count_private=true&show_owner=true"/>
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mphele&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9)](https://wakatime.com/@Mphele)
 
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Mphele&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9)](https://wakatime.com/@Mphele)
 
@@ -84,6 +85,27 @@ func main() {
 [![Mphele's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mphele&bg_color=0d1117&color=00d4aa&line=00d4aa&point=FF6B35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+
+## 🏆 Awards
+
+<div align="center">
+<br/>
+
+<table border="0">
+  <tr>
+    <td align="center" width="340">
+      <img src="https://img.shields.io/badge/%F0%9F%8F%86%20%201st%20Place-Mjanga%20AI%20Challenge-FF6B35?style=for-the-badge&labelColor=0d1117" />
+      <br/><br/>
+      <sub><b>Mjanga AI Hackathon</b></sub><br/>
+      <sub>🥇 First Place · Africa wide hackathon</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+</div>
+
 
 ---
 
