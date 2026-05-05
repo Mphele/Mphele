@@ -70,6 +70,87 @@ func main() {
 <div align="center">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2018%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 307 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+🌆 Daytime                590 commits         ███████████░░░░░░░░░░░░░░   45.88 % 
+🌃 Evening                448 commits         █████████░░░░░░░░░░░░░░░░   34.84 % 
+🌙 Night                  121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Tuesday                  263 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Wednesday                143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Thursday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Friday                   163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Saturday                 289 commits         ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+Sunday                   141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Johannesburg
+
+💬 Programming Languages: 
+Go                       10 hrs 2 mins       ███████████████░░░░░░░░░░   59.89 % 
+Java                     4 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+XML                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+
+🔥 Editors: 
+GoLand                   10 hrs 55 mins      ████████████████░░░░░░░░░   65.09 % 
+IntelliJ IDEA            5 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.91 % 
+
+🐱‍💻 Projects: 
+uwatu-core               10 hrs 46 mins      ████████████████░░░░░░░░░   64.25 % 
+oop-ex-toy-robot-group   3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+mockAssessment           2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+uwatu-simulator          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+
+💻 Operating System: 
+Windows                  16 hrs 46 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Go                       4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Mphele/Mphele/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/05/2026 18:16:34 UTC
 <!--END_SECTION:waka-->
 </div>
 
