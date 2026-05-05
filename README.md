@@ -69,13 +69,8 @@ func main() {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mphele&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9"/>
-&nbsp;
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mphele&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9)](https://wakatime.com/@Mphele)
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Mphele&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9)](https://wakatime.com/@Mphele)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
 
 <div align="center">
