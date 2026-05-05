@@ -70,21 +70,13 @@ func main() {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2018%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue?style=flat)
+**My GitHub Data** 
 
-**🐱 My GitHub Data** 
 
-> 📦 1.8 kB Used in GitHub's Storage 
  > 
-> 🏆 307 Contributions in the Year 2026
+>  307 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -123,7 +115,7 @@ Text                     28 mins             █░░░░░░░░░░�
 GoLand                   10 hrs 55 mins      ████████████████░░░░░░░░░   65.09 % 
 IntelliJ IDEA            5 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.91 % 
 
-🐱‍💻 Projects: 
+ Projects: 
 uwatu-core               10 hrs 46 mins      ████████████████░░░░░░░░░   64.25 % 
 oop-ex-toy-robot-group   3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
 mockAssessment           2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
