@@ -28,7 +28,7 @@ type Mphele struct {
     Belief       string
     Foundation   string
     Interests    []string
-    Superpowers   string
+    Superpowers  []string
 }
 
 func main() {
@@ -38,7 +38,11 @@ func main() {
         Belief:       "A well-designed API is the foundation of any great UX.",
         Foundation:   "CompTIA A+ certified — I see both sides: software & hardware",
         Interests:    []string{"Music", "Sports", "Gaming", "Socioeconomics"},
-        Superpower:   "Hackathons — I play to win every single one.",
+        Superpowers:  []string{
+            "Rapid Adaptability - I pick up new tech stacks quickly when the build demands it.",
+            "Relentless Work Ethic - I put in the hours required to get the architecture right.",
+            "Hackathons - I play to win every single one.",
+        }, 
     }
 }
 ```
@@ -208,6 +212,12 @@ Rust                     1 repo              █░░░░░░░░░░�
 - **Backend development** — going deeper across the stack
 - **End-to-end data pipelines** — from ingestion to insight
 - **High-performance API design** — because slow APIs are unacceptable
+- **Cybersecurity & Static Analysis** - building tools to scan metadata and identify vulnerabilities without code execution
+- **Machine Learning Integration** - embedding predictive AI models into event-driven backend architectures
+- **Containerization & Orchestration** - mastering Docker and Kubernetes for scalable, resilient deployments
+- **Advanced SQL & Database Architecture** - moving beyond basic queries to optimize complex relational data models
+- **Cloud Deployment Strategy** - transitioning from local development to production-ready cloud environments
+- **Data Structures & Algorithms** - continuously refining problem-solving logic for hackathons and competitive programming
 ---
 
 ## Fun Facts
@@ -221,7 +231,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 ## Open To
 
-- Internship & graduate opportunities in **backend / data engineering**
+- Internship & graduate opportunities in **Software development**
 - Open source contributions & interesting side projects
 - Conversations about **socioeconomics and tech for good**
 
