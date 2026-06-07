@@ -151,6 +151,12 @@ Rust                     1 repo              █░░░░░░░░░░�
 <table border="0">
   <tr>
     <td align="center" width="340">
+      <img src="https://img.shields.io/badge/%F0%9F%8F%86%20%201st%20Place-ITWeb%20SS26Hack-FF6B35?style=for-the-badge&labelColor=0d1117" />
+      <br/><br/>
+      <sub><b>ITWeb Security Summit Hackathon 2026</b></sub><br/>
+      <sub>🥇 National Champions · Sandton Convention Centre</sub>
+    </td>
+    <td align="center" width="340">
       <img src="https://img.shields.io/badge/%F0%9F%8F%86%20%201st%20Place-Mjanga%20AI%20Challenge-FF6B35?style=for-the-badge&labelColor=0d1117" />
       <br/><br/>
       <sub><b>Mjanga AI Hackathon</b></sub><br/>
@@ -162,13 +168,12 @@ Rust                     1 repo              █░░░░░░░░░░�
 <br/>
 </div>
 
-
 ---
 
 ## Featured Projects
 
 ### [AfyaAI](https://github.com/elviscgn/AfyaAI)
-> Health triage assistant — conversational healthcare access powered by Gemini.
+> Health triage assistant - conversational healthcare access powered by Gemini.
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00d4aa)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00d4aa)
@@ -176,19 +181,27 @@ Rust                     1 repo              █░░░░░░░░░░�
 ---
 
 ### [Sieve](https://github.com/elviscgn/Sieve)
-> AI-powered recruiter-first ATS system — built to put recruiters back in control.
+> AI-powered recruiter-first ATS system - built to put recruiters back in control.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 
 ---
 
 ### [Uwatu](https://github.com/Uwatu)
+> An intelligent, event-driven agritech architecture bridging IoT telemetry, telecom network signals, and machine learning to protect African livestock and monitor animal health in real-time.
 
 ![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00d4aa)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00d4aa)
 
 ---
+
+### [Doria](https://github.com/doria-sec)
+> Static analysis engine and security tool for scanning package metadata and identifying vulnerabilities without code execution.
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00d4aa)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 ## Currently Levelling Up
 
