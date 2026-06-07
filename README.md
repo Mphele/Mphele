@@ -217,7 +217,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 - **Containerization & Orchestration** - mastering Docker and Kubernetes for scalable, resilient deployments
 - **Advanced SQL & Database Architecture** - moving beyond basic queries to optimize complex relational data models
 - **Cloud Deployment Strategy** - transitioning from local development to production-ready cloud environments
-- **Data Structures & Algorithms** - continuously refining problem-solving logic for hackathons and competitive programming
+- **Data Structures & Algorithms** - continuously refining problem-solving logic for writing fast and efficient code
 ---
 
 ## Fun Facts
