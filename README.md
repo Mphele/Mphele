@@ -174,6 +174,13 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 ## Featured Projects
 
+### [Doria](https://github.com/doria-sec)
+> Security tool built for the AI-assisted development era. Catches slopsquatting attacks, AI-hallucinated package names registered with malware before they touch your disk. National champions at the ITWeb Security Summit Hackathon 2026. 🏆
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00d4aa)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
 ### [AfyaAI](https://github.com/elviscgn/AfyaAI)
 > Health triage assistant - conversational healthcare access powered by Gemini.
 
@@ -198,12 +205,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 ---
 
-### [Doria](https://github.com/doria-sec)
-> Static analysis engine and security tool for scanning package metadata and identifying vulnerabilities without code execution.
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00d4aa)
-![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 ## Currently Levelling Up
 
