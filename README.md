@@ -74,6 +74,8 @@ func main() {
 <div align="center">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2015%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -129,7 +131,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2026 04:56:39 UTC
+ Last Updated on 20/06/2026 04:10:38 UTC
 <!--END_SECTION:waka-->
 </div>
 
