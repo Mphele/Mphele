@@ -101,23 +101,22 @@ Sunday                   233 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   33.43 % 
-Java                     1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-Markdown                 51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-HTML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Go                       26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Other                    1 hr 59 mins        ███████████░░░░░░░░░░░░░░   42.04 % 
+Java                     1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   35.67 % 
+HTML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 28 mins       ███████████████░░░░░░░░░░   58.40 % 
-IntelliJ IDEA            2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.94 % 
-GoLand                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Antigravity IDE          2 hrs 43 mins       ██████████████░░░░░░░░░░░   57.32 % 
+IntelliJ IDEA            2 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.68 % 
 
 🐱‍💻 Projects: 
-brownfields              2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.05 % 
-brownfields-robot-worlds-2 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   34.81 % 
-mphel                    41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-iKlippa                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Portfolio                32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+brownfields              2 hrs 5 mins        ███████████░░░░░░░░░░░░░░   44.08 % 
+brownfields-robot-worlds-2 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.78 % 
+Portfolio                32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+java-oop-practice-myanswe1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+mphel                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 **I Mostly Code in Python** 
@@ -133,7 +132,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2026 03:45:17 UTC
+ Last Updated on 04/07/2026 03:38:04 UTC
 <!--END_SECTION:waka-->
 </div>
 
