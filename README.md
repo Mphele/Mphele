@@ -101,22 +101,20 @@ Sunday                   233 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 59 mins        ███████████░░░░░░░░░░░░░░   42.04 % 
-Java                     1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   35.67 % 
-HTML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Other                    1 hr 58 mins        ████████████░░░░░░░░░░░░░   47.21 % 
+Java                     1 hr 41 mins        ██████████░░░░░░░░░░░░░░░   40.41 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 43 mins       ██████████████░░░░░░░░░░░   57.32 % 
-IntelliJ IDEA            2 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.68 % 
+Antigravity IDE          2 hrs 9 mins        █████████████░░░░░░░░░░░░   51.65 % 
+IntelliJ IDEA            2 hrs 1 min         ████████████░░░░░░░░░░░░░   48.35 % 
 
 🐱‍💻 Projects: 
-brownfields              2 hrs 5 mins        ███████████░░░░░░░░░░░░░░   44.08 % 
-brownfields-robot-worlds-2 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.78 % 
-Portfolio                32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-java-oop-practice-myanswe1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-mphel                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+brownfields              2 hrs 5 mins        ████████████░░░░░░░░░░░░░   49.94 % 
+brownfields-robot-worlds-2 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.59 % 
+java-oop-practice-myanswe1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 **I Mostly Code in Python** 
@@ -132,7 +130,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2026 03:56:26 UTC
+ Last Updated on 06/07/2026 04:03:22 UTC
 <!--END_SECTION:waka-->
 </div>
 
