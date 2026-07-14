@@ -74,7 +74,7 @@ func main() {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2041%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -101,24 +101,24 @@ Sunday                   233 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 45 mins       ███████████████░░░░░░░░░░   59.94 % 
-Markdown                 3 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   34.58 % 
-Java                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Go                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Other                    5 hrs 29 mins       █████████████░░░░░░░░░░░░   50.87 % 
+Markdown                 4 hrs 39 mins       ███████████░░░░░░░░░░░░░░   43.16 % 
+Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Java                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Go                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-Antigravity IDE          10 hrs 45 mins      ████████████████████████░   95.57 % 
-IntelliJ IDEA            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-GoLand                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Antigravity IDE          10 hrs 22 mins      ████████████████████████░   96.11 % 
+IntelliJ IDEA            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+GoLand                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🐱‍💻 Projects: 
-monkey and river         7 hrs 13 mins       ████████████████░░░░░░░░░   64.16 % 
-smurfs                   3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-brownfields-robot-worlds-18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-brownfields              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-iKlippa                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+monkey and river         7 hrs 1 min         ████████████████░░░░░░░░░   65.10 % 
+smurfs                   3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.31 % 
+quickstart               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+iKlippa                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+DSA                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
 **I Mostly Code in Python** 
@@ -134,7 +134,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2026 03:30:15 UTC
+ Last Updated on 14/07/2026 02:52:54 UTC
 <!--END_SECTION:waka-->
 </div>
 
