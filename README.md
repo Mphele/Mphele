@@ -74,26 +74,26 @@ func main() {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2024%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-🌆 Daytime                756 commits         ███████████░░░░░░░░░░░░░░   42.98 % 
-🌃 Evening                701 commits         ██████████░░░░░░░░░░░░░░░   39.85 % 
-🌙 Night                  154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+🌞 Morning                148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+🌆 Daytime                756 commits         ███████████░░░░░░░░░░░░░░   42.86 % 
+🌃 Evening                706 commits         ██████████░░░░░░░░░░░░░░░   40.02 % 
+🌙 Night                  154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Tuesday                  318 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Wednesday                196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Thursday                 153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Friday                   217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Saturday                 390 commits         ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-Sunday                   241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Monday                   244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Tuesday                  318 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Wednesday                196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Thursday                 153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Friday                   217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Saturday                 390 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+Sunday                   246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 ```
 
 
@@ -101,23 +101,23 @@ Sunday                   241 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 34 mins       █████████████░░░░░░░░░░░░   50.75 % 
-Python                   1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-Go                       51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Java                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Markdown                 3 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.63 % 
+Python                   1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Go                       1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Java                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 41 mins       █████████████░░░░░░░░░░░░   52.48 % 
-Antigravity IDE          2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.51 % 
-GoLand                   46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+IntelliJ IDEA            3 hrs 41 mins       ████████████░░░░░░░░░░░░░   46.75 % 
+Antigravity IDE          3 hrs 26 mins       ███████████░░░░░░░░░░░░░░   43.44 % 
+GoLand                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 
 🐱‍💻 Projects: 
-java-oop-practice-myanswe3 hrs 12 mins       ███████████░░░░░░░░░░░░░░   45.48 % 
-iKlippa                  2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.29 % 
-mphel                    48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-java-oop-practice        18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-smurfs                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+java-oop-practice-myanswe3 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   40.52 % 
+iKlippa                  3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.67 % 
+mphel                    1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+java-oop-practice        18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+quickstart               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 **I Mostly Code in Python** 
@@ -133,7 +133,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2026 03:23:08 UTC
+ Last Updated on 20/07/2026 03:37:39 UTC
 <!--END_SECTION:waka-->
 </div>
 
