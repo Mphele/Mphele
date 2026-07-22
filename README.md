@@ -105,11 +105,11 @@ Markdown                 3 hrs 36 mins       ███████████�
 Python                   1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
 Go                       1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
 Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Java                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Java                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 🔥 Editors: 
 Antigravity IDE          3 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.11 % 
-IntelliJ IDEA            3 hrs 30 mins       ███████████░░░░░░░░░░░░░░   44.96 % 
+IntelliJ IDEA            3 hrs 30 mins       ███████████░░░░░░░░░░░░░░   44.95 % 
 GoLand                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
 
 🐱‍💻 Projects: 
@@ -133,7 +133,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2026 03:18:37 UTC
+ Last Updated on 22/07/2026 03:16:12 UTC
 <!--END_SECTION:waka-->
 </div>
 
