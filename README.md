@@ -74,6 +74,51 @@ func main() {
 <div align="center">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2046%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+🌆 Daytime                773 commits         ███████████░░░░░░░░░░░░░░   42.75 % 
+🌃 Evening                731 commits         ██████████░░░░░░░░░░░░░░░   40.43 % 
+🌙 Night                  155 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Tuesday                  322 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Wednesday                197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Thursday                 153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Friday                   219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Saturday                 413 commits         ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+Sunday                   258 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+Markdown                 1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+Other                    1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Makefile                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+
+🔥 Editors: 
+Antigravity IDE          3 hrs 37 mins       ████████████████░░░░░░░░░   62.22 % 
+IntelliJ IDEA            2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.78 % 
+
+🐱‍💻 Projects: 
+brownfields              1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+DSA                      1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+brownfields-robot-worlds-1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+iKlippa                  50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+mphel                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -87,7 +132,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 03:15:24 UTC
+ Last Updated on 26/07/2026 03:29:09 UTC
 <!--END_SECTION:waka-->
 </div>
 
