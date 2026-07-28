@@ -74,7 +74,9 @@ func main() {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2027%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%202%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -119,6 +121,29 @@ oop-013-pm               15 mins             █░░░░░░░░░░�
 oop-013                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 26 mins (73.86%)
+
+✍️ 25 lines written by AI, 57 lines written by hand (30.49% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 73 AI Prompts
+
+Gemini                   22 lines            ██████████████████████░░░   88.00 % 
+Sonnet                   3 lines             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 30.49% of written lines came from AI
+📄 Detailed Prompter — average 778 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🔍 Hands-On Reviewer — 82.64% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -132,7 +157,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 03:37:43 UTC
+ Last Updated on 28/07/2026 02:53:33 UTC
 <!--END_SECTION:waka-->
 </div>
 
