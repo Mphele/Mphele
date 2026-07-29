@@ -103,45 +103,45 @@ Sunday                   258 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-Other                    1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-Markdown                 1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Makefile                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-YAML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Java                     2 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.88 % 
+Other                    1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+Markdown                 1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+Makefile                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 27 mins       ██████████████░░░░░░░░░░░   57.49 % 
-IntelliJ IDEA            2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.51 % 
+Antigravity IDE          3 hrs 49 mins       █████████████░░░░░░░░░░░░   53.73 % 
+IntelliJ IDEA            3 hrs 17 mins       ████████████░░░░░░░░░░░░░   46.27 % 
 
 🐱‍💻 Projects: 
-brownfields              2 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
-brownfields-robot-worlds-1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-DSA                      1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-oop-013-pm               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-oop-013                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+brownfields              2 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   39.20 % 
+brownfields-robot-worlds-2 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   34.36 % 
+DSA                      1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+oop-013-pm               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+oop-013                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 26 mins (73.86%)
+⏱ AI Coding Time: 5 hrs 22 mins (75.44%)
 
-✍️ 25 lines written by AI, 57 lines written by hand (30.49% AI-written)
+✍️ 30 lines written by AI, 60 lines written by hand (33.33% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 73 AI Prompts
+🧠 4 AI Sessions, 82 AI Prompts
 
-Gemini                   22 lines            ██████████████████████░░░   88.00 % 
-Sonnet                   3 lines             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Gemini                   27 lines            ██████████████████████░░░   90.00 % 
+Sonnet                   3 lines             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 30.49% of written lines came from AI
-📄 Detailed Prompter — average 778 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🔍 Hands-On Reviewer — 82.64% of changed lines were hand-edited
+⚖️ Balanced with AI — 33.33% of written lines came from AI
+📄 Detailed Prompter — average 891 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🔍 Hands-On Reviewer — 80.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -157,7 +157,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 02:53:33 UTC
+ Last Updated on 29/07/2026 03:13:19 UTC
 <!--END_SECTION:waka-->
 </div>
 
