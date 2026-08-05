@@ -25,3 +25,43 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "False"
           SYMBOL_VERSION: 1
+
+      - name: Checkout repo to get the freshly-updated README
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Strip AI stats sections
+        run: |
+          python3 - <<'EOF'
+          import re
+          with open("README.md", encoding="utf-8") as f:
+              content = f.read()
+
+          # Remove the "AI Code Time" badge line and its surrounding blank line
+          content = re.sub(
+              r"\n\n!\[AI Code Time\]\([^)]*\)\n",
+              "\n",
+              content
+          )
+
+          # Remove the whole "AI Coding This Week" block, up to the next heading
+          content = re.sub(
+              r"🤖 \*\*AI Coding This Week\*\*.*?(?=\*\*I Mostly Code in)",
+              "",
+              content,
+              flags=re.DOTALL
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+          EOF
+
+      - name: Commit and push cleaned README
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Strip AI coding stats section"
+          git push
