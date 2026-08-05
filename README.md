@@ -144,8 +144,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 </div>
 
 ## Github Awards
-![Mphele trophies](https://github-profile-trophy.vercel.app/?username=mphele&theme=onedark&row=1&column=6)
-
+![Mphele trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=mphele&theme=onedark&row=1&column=6)
 
 ## 🏆 Awards
 
