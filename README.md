@@ -74,26 +74,28 @@ func main() {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2029%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2059%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-🌆 Daytime                828 commits         ██████████░░░░░░░░░░░░░░░   41.34 % 
-🌃 Evening                799 commits         ██████████░░░░░░░░░░░░░░░   39.89 % 
-🌙 Night                  189 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+🌞 Morning                187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+🌆 Daytime                828 commits         ██████████░░░░░░░░░░░░░░░   41.32 % 
+🌃 Evening                799 commits         ██████████░░░░░░░░░░░░░░░   39.87 % 
+🌙 Night                  190 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Tuesday                  353 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Monday                   260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Tuesday                  353 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
 Wednesday                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Thursday                 153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Thursday                 153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 Friday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Saturday                 467 commits         ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-Sunday                   298 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Saturday                 467 commits         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Sunday                   299 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 ```
 
 
@@ -120,6 +122,30 @@ java-oop-practice        55 mins             ███░░░░░░░░�
 oop-013                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 53 mins (70.82%)
+
+✍️ 67 lines written by AI, 165 lines written by hand (28.88% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 65 AI Prompts
+
+Opus                     48 lines            ██████████████████░░░░░░░   71.64 % 
+Sonnet                   13 lines            █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Gemini                   6 lines             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 28.88% of written lines came from AI
+📝 Concise Prompter — average 328 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🔍 Hands-On Reviewer — 72.08% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -133,7 +159,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 01:29:24 UTC
+ Last Updated on 16/08/2026 01:40:37 UTC
 <!--END_SECTION:waka-->
 </div>
 
