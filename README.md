@@ -76,8 +76,6 @@ func main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2059%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -120,30 +118,6 @@ brownfields              2 hrs               ███████░░░░�
 oop-023-pm               1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
 java-oop-practice        55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 oop-013                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 53 mins (70.82%)
-
-✍️ 67 lines written by AI, 165 lines written by hand (28.88% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 65 AI Prompts
-
-Opus                     48 lines            ██████████████████░░░░░░░   71.64 % 
-Sonnet                   13 lines            █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Gemini                   6 lines             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 28.88% of written lines came from AI
-📝 Concise Prompter — average 328 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 72.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
