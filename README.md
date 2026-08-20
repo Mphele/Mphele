@@ -76,8 +76,6 @@ func main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2051%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -120,29 +118,6 @@ brownfields-robot-worlds-2 hrs 47 mins       ███████░░░░�
 brownfields              2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
 java-oop-practice        57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 oop-023-pm               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 20 mins (78.56%)
-
-✍️ 56 lines written by AI, 93 lines written by hand (37.58% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 150 AI Prompts
-
-Gemini                   33 lines            ███████████████░░░░░░░░░░   58.93 % 
-Sonnet                   23 lines            ██████████░░░░░░░░░░░░░░░   41.07 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 37.58% of written lines came from AI
-📝 Concise Prompter — average 326 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🔍 Hands-On Reviewer — 65.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
