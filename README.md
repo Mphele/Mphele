@@ -76,6 +76,8 @@ func main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2055%20mins-blue?style=flat)
 
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2045%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -101,21 +103,44 @@ Sunday                   314 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Java                     3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-Python                   3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Markdown                 2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-XML                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Java                     3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Other                    3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+Python                   2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Markdown                 2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+XML                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🔥 Editors: 
-Antigravity IDE          8 hrs 54 mins       ████████████████░░░░░░░░░   64.26 % 
-VS Code                  2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-IntelliJ IDEA            2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Antigravity IDE          8 hrs 41 mins       ████████████████░░░░░░░░░   64.66 % 
+IntelliJ IDEA            2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+VS Code                  2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
 
 🐱‍💻 Projects: 
-brownfields-robot-worlds-5 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.89 % 
-brownfields              4 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.80 % 
-Limi                     4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.32 % 
+brownfields-robot-worlds-5 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.01 % 
+brownfields              4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.46 % 
+Limi                     3 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   29.54 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 11 hrs 32 mins (85.86%)
+
+✍️ 410 lines written by AI, 183 lines written by hand (69.14% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 159 AI Prompts
+
+Gemini                   267 lines           ██████████████░░░░░░░░░░░   57.30 % 
+Sonnet                   199 lines           ███████████░░░░░░░░░░░░░░   42.70 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 69.14% of written lines came from AI
+📝 Concise Prompter — average 486 characters per prompt
+🔁 Iterative Prompter — average 23 prompts per session
+🚀 High AI Trust — 30.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -131,7 +156,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 08:32:42 UTC
+ Last Updated on 28/08/2026 10:46:16 UTC
 <!--END_SECTION:waka-->
 </div>
 
