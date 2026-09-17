@@ -74,26 +74,28 @@ func main() {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2051%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2020%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-🌆 Daytime                915 commits         ██████████░░░░░░░░░░░░░░░   41.53 % 
-🌃 Evening                868 commits         ██████████░░░░░░░░░░░░░░░   39.40 % 
-🌙 Night                  234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+🌞 Morning                186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+🌆 Daytime                935 commits         ███████████░░░░░░░░░░░░░░   42.06 % 
+🌃 Evening                868 commits         ██████████░░░░░░░░░░░░░░░   39.05 % 
+🌙 Night                  234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   318 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Tuesday                  368 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Wednesday                256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Thursday                 173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Friday                   280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Saturday                 488 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Sunday                   320 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Monday                   318 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Tuesday                  378 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Wednesday                266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Thursday                 173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Friday                   280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Saturday                 488 commits         █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Sunday                   320 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 ```
 
 
@@ -121,20 +123,45 @@ CheckUp                  29 mins             █░░░░░░░░░░�
 Unknown Project          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 15 hrs 15 mins (92.89%)
+
+✍️ 1,758 lines written by AI, 98 lines written by hand (94.72% AI-written)
+
+🔤 318,910 Input Tokens, 36,666 Output Tokens
+
+💵 $3.51 Estimated AI Cost This Week
+
+🧠 18 AI Sessions, 241 AI Prompts
+
+GPT                      1,186 lines         ████████████████░░░░░░░░░   64.14 % 
+Gemini                   605 lines           ████████░░░░░░░░░░░░░░░░░   32.72 % 
+Opus                     48 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Sonnet                   10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 94.72% of written lines came from AI
+📄 Detailed Prompter — average 950 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 6.03% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Go                       4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   11 repos            █████████░░░░░░░░░░░░░░░░   35.48 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 ```
 
 
 
 
- Last Updated on 16/09/2026 04:13:16 UTC
+ Last Updated on 17/09/2026 04:20:14 UTC
 <!--END_SECTION:waka-->
 </div>
 
