@@ -76,8 +76,6 @@ func main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2049%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -120,30 +118,6 @@ Limi                     2 hrs 7 mins        ██████░░░░░�
 KeepTrack                1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
 i-need-to-create-a-cybers35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 files-mentioned-by-the-us10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 36 mins (72.89%)
-
-✍️ 4,168 lines written by AI, 14 lines written by hand (99.67% AI-written)
-
-🔤 1,977,943 Input Tokens, 151,302 Output Tokens
-
-💵 $23.20 Estimated AI Cost This Week
-
-🧠 30 AI Sessions, 197 AI Prompts
-
-GPT                      3,816 lines         ███████████████████████░░   91.55 % 
-Gemini                   326 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Opus                     26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.67% of written lines came from AI
-📚 Verbose Prompter — average 11,963 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
