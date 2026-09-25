@@ -76,6 +76,8 @@ func main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2021%20mins-blue?style=flat)
 
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2016%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -101,24 +103,50 @@ Sunday                   333 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.19 % 
-Markdown                 2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-JavaScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-HTML                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Python                   3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.85 % 
+Markdown                 1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+JavaScript               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+HTML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 50 mins       ███████████░░░░░░░░░░░░░░   43.04 % 
-VS Code                  2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   32.25 % 
-IntelliJ IDEA            1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Codex Vscode             56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Antigravity IDE          3 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.80 % 
+VS Code                  2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+IntelliJ IDEA            1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Codex Vscode             48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
 
 🐱‍💻 Projects: 
-Limi                     2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.66 % 
-CheckUp                  2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.03 % 
-KeepTrack                1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-single-page-application  1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-files-mentioned-by-the-us11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Limi                     2 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.32 % 
+CheckUp                  2 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+KeepTrack                1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+single-page-application  1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+files-mentioned-by-the-us11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 24 mins (67.99%)
+
+✍️ 994 lines written by AI, 199 lines written by hand (83.32% AI-written)
+
+🔤 2,092,308 Input Tokens, 96,692 Output Tokens
+
+💵 $17.14 Estimated AI Cost This Week
+
+🧠 22 AI Sessions, 134 AI Prompts
+
+GPT                      881 lines           ████████████████████░░░░░   81.73 % 
+Gemini                   165 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Opus                     32 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Antigravity-Ide          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 83.32% of written lines came from AI
+📚 Verbose Prompter — average 17,073 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 21.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -134,7 +162,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 04:05:37 UTC
+ Last Updated on 25/09/2026 04:20:15 UTC
 <!--END_SECTION:waka-->
 </div>
 
