@@ -76,6 +76,8 @@ func main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2040%20mins-blue?style=flat)
 
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2012%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -121,6 +123,32 @@ Unknown Project          1 hr 4 mins         ███░░░░░░░░�
 KeepTrack                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 22 mins (88.77%)
+
+✍️ 3,823 lines written by AI, 220 lines written by hand (94.56% AI-written)
+
+🔤 5,718,953 Input Tokens, 197,403 Output Tokens
+
+💵 $27.56 Estimated AI Cost This Week
+
+🧠 16 AI Sessions, 150 AI Prompts
+
+Opus                     2,730 lines         ██████████████████░░░░░░░   71.13 % 
+GPT                      541 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Sonnet                   278 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Antigravity-Ide          185 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Gemini                   104 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 94.56% of written lines came from AI
+📚 Verbose Prompter — average 12,311 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 7.47% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -134,7 +162,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 04:43:26 UTC
+ Last Updated on 29/09/2026 05:10:02 UTC
 <!--END_SECTION:waka-->
 </div>
 
