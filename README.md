@@ -76,6 +76,8 @@ func main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2040%20mins-blue?style=flat)
 
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2012%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -104,10 +106,16 @@ Sunday                   321 commits         ████░░░░░░░�
 No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
 No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -123,7 +131,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 05:14:04 UTC
+ Last Updated on 05/10/2026 04:58:47 UTC
 <!--END_SECTION:waka-->
 </div>
 
