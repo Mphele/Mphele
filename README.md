@@ -76,8 +76,6 @@ func main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2034%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -115,30 +113,6 @@ IntelliJ IDEA            13 mins             █████████░░�
 
 🐱‍💻 Projects: 
 single-page-application  36 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 22 mins (62.18%)
-
-✍️ 567 lines written by AI, 7 lines written by hand (98.78% AI-written)
-
-🔤 692,903 Input Tokens, 40,232 Output Tokens
-
-💵 $2.96 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-Antigravity-Ide          328 lines           ██████████████░░░░░░░░░░░   57.24 % 
-Opus                     233 lines           ██████████░░░░░░░░░░░░░░░   40.66 % 
-Gemini                   12 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.78% of written lines came from AI
-📚 Verbose Prompter — average 2,759 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
