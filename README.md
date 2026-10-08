@@ -74,7 +74,9 @@ func main() {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%201%20min-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -101,21 +103,47 @@ Sunday                   321 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-CSS                      13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-TOML                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-JavaScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Java                     1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   37.79 % 
+Other                    47 mins             █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Diff                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+HTML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+TOML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 
 🔥 Editors: 
-Antigravity IDE          22 mins             █████████░░░░░░░░░░░░░░░░   37.06 % 
-Codex Vscode             19 mins             ████████░░░░░░░░░░░░░░░░░   31.78 % 
-IntelliJ IDEA            19 mins             ████████░░░░░░░░░░░░░░░░░   31.16 % 
+IntelliJ IDEA            2 hrs 11 mins       █████████████░░░░░░░░░░░░   52.72 % 
+Codex Vscode             1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   36.90 % 
+Antigravity IDE          25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
 
 🐱‍💻 Projects: 
-single-page-application  36 mins             ███████████████░░░░░░░░░░   59.47 % 
-portfolio-redesign       19 mins             ████████░░░░░░░░░░░░░░░░░   31.78 % 
-c-users-mphel-documents-p5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+server-side-ui-exercise  1 hr 58 mins        ████████████░░░░░░░░░░░░░   47.67 % 
+in-the-downloads-director1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   36.90 % 
+single-page-application  37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 48 mins (67.62%)
+
+✍️ 779 lines written by AI, 115 lines written by hand (87.14% AI-written)
+
+🔤 1,854,635 Input Tokens, 119,659 Output Tokens
+
+💵 $15.47 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 35 AI Prompts
+
+Opus                     338 lines           ███████████░░░░░░░░░░░░░░   43.06 % 
+Antigravity-Ide          328 lines           ██████████░░░░░░░░░░░░░░░   41.78 % 
+GPT                      103 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Gemini                   16 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 87.14% of written lines came from AI
+📄 Detailed Prompter — average 712 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 18.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -131,7 +159,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 05:17:41 UTC
+ Last Updated on 08/10/2026 05:27:39 UTC
 <!--END_SECTION:waka-->
 </div>
 
