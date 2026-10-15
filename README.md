@@ -76,6 +76,8 @@ func main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%201%20min-blue?style=flat)
 
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -119,6 +121,31 @@ single-page-application  1 min               ░░░░░░░░░░░�
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 25 mins (68.53%)
+
+✍️ 208 lines written by AI, 108 lines written by hand (65.82% AI-written)
+
+🔤 726,721 Input Tokens, 76,853 Output Tokens
+
+💵 $11.51 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 31 AI Prompts
+
+Opus                     105 lines           ████████████░░░░░░░░░░░░░   48.61 % 
+GPT                      103 lines           ████████████░░░░░░░░░░░░░   47.69 % 
+Gemini                   8 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Antigravity-Ide          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 65.82% of written lines came from AI
+📝 Concise Prompter — average 448 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 44.24% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -132,7 +159,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 04:20:04 UTC
+ Last Updated on 15/10/2026 04:02:41 UTC
 <!--END_SECTION:waka-->
 </div>
 
