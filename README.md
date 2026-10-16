@@ -76,6 +76,8 @@ func main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%201%20min-blue?style=flat)
 
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%201%20min-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -101,22 +103,39 @@ Sunday                   321 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 30 mins        ███████████░░░░░░░░░░░░░░   42.51 % 
-Other                    47 mins             ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-Diff                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Other                    1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 57 mins        ██████████████░░░░░░░░░░░   55.31 % 
-Codex Vscode             1 hr 31 mins        ███████████░░░░░░░░░░░░░░   43.26 % 
-Antigravity IDE          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Antigravity IDE          1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-server-side-ui-exercise  1 hr 58 mins        ██████████████░░░░░░░░░░░   55.88 % 
-in-the-downloads-director1 hr 31 mins        ███████████░░░░░░░░░░░░░░   43.26 % 
-single-page-application  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Unknown Project          1 min               █████████████████████████   98.21 % 
+oop-023-pm               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 min (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 88,182 Input Tokens, 1,583 Output Tokens
+
+💵 $5.38 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Gemini                   8 lines             █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Antigravity-Ide          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 256 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -132,7 +151,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 04:02:41 UTC
+ Last Updated on 16/10/2026 03:59:13 UTC
 <!--END_SECTION:waka-->
 </div>
 
