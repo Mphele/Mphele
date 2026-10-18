@@ -76,8 +76,6 @@ func main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%201%20min-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -111,31 +109,6 @@ Antigravity IDE          1 min               ███████████�
 🐱‍💻 Projects: 
 Unknown Project          1 min               █████████████████████████   98.21 % 
 oop-023-pm               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 min (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 88,182 Input Tokens, 1,583 Output Tokens
-
-💵 $5.38 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Gemini                   8 lines             █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Antigravity-Ide          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 256 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
