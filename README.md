@@ -76,6 +76,8 @@ func main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2022%20mins-blue?style=flat)
 
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -101,19 +103,43 @@ Sunday                   321 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    57 mins             ██████████████████░░░░░░░   73.80 % 
-Java                     20 mins             ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    2 hrs 20 mins       ████████████░░░░░░░░░░░░░   46.99 % 
+Python                   1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+Java                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+HTML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 17 mins        █████████████████████████   98.36 % 
-Antigravity IDE          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+IntelliJ IDEA            4 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-we-x20                   56 mins             ██████████████████░░░░░░░   72.16 % 
-DSA-Practice             20 mins             ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-oop-023-pm               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+we-x20                   2 hrs 20 mins       ████████████░░░░░░░░░░░░░   46.99 % 
+c-users-mphel-documents-p1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+server-side-ui-exercise  33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+DSA-Practice             20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Portfolio                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 40 mins (93.94%)
+
+✍️ 930 lines written by AI, 40 lines written by hand (95.88% AI-written)
+
+🔤 573,268 Input Tokens, 79,019 Output Tokens
+
+💵 $15.33 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 59 AI Prompts
+
+GPT                      943 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.88% of written lines came from AI
+📄 Detailed Prompter — average 600 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 4.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +155,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 04:05:12 UTC
+ Last Updated on 22/10/2026 04:06:16 UTC
 <!--END_SECTION:waka-->
 </div>
 
