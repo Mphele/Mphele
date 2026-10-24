@@ -74,7 +74,9 @@ func main() {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2023%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2055%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -101,20 +103,43 @@ Sunday                   321 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 51 mins       █████████████░░░░░░░░░░░░   52.23 % 
-Python                   1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-Java                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    3 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.57 % 
+Java                     1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Python                   50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 29 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            6 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-we-x20                   2 hrs 51 mins       █████████████░░░░░░░░░░░░   52.23 % 
-c-users-mphel-documents-p1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-DSA-Practice             52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Portfolio                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+we-x20                   3 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.57 % 
+DSA-Practice             1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+patrick-lee-has-an-album-54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+c-users-mphel-documents-p50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Portfolio                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 21 mins (79.29%)
+
+✍️ 884 lines written by AI, 68 lines written by hand (92.86% AI-written)
+
+🔤 1,452,404 Input Tokens, 169,129 Output Tokens
+
+💵 $60.85 Estimated AI Cost This Week
+
+🧠 17 AI Sessions, 76 AI Prompts
+
+GPT                      918 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 92.86% of written lines came from AI
+📄 Detailed Prompter — average 802 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 7.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +155,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 04:09:52 UTC
+ Last Updated on 24/10/2026 04:02:41 UTC
 <!--END_SECTION:waka-->
 </div>
 
