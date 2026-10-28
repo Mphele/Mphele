@@ -76,6 +76,8 @@ func main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2023%20mins-blue?style=flat)
 
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2055%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -101,18 +103,40 @@ Sunday                   321 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 55 mins        ███████████░░░░░░░░░░░░░░   44.95 % 
-Java                     1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   33.69 % 
-Markdown                 54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Java                     1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   35.52 % 
+Other                    1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   35.12 % 
+Markdown                 54 mins             ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 17 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-we-x20                   1 hr 55 mins        ███████████░░░░░░░░░░░░░░   44.95 % 
-DSA-Practice             1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   33.77 % 
-patrick-lee-has-an-album-54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+DSA-Practice             1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   35.55 % 
+we-x20                   1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   35.12 % 
+patrick-lee-has-an-album-54 mins             ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 1 min (64.77%)
+
+✍️ 566 lines written by AI, 28 lines written by hand (95.29% AI-written)
+
+🔤 1,276,010 Input Tokens, 134,213 Output Tokens
+
+💵 $54.48 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 28 AI Prompts
+
+GPT                      598 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.29% of written lines came from AI
+📄 Detailed Prompter — average 1,147 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 4.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -128,7 +152,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 04:27:58 UTC
+ Last Updated on 28/10/2026 04:58:40 UTC
 <!--END_SECTION:waka-->
 </div>
 
