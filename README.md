@@ -76,6 +76,8 @@ func main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2023%20mins-blue?style=flat)
 
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2055%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -101,18 +103,19 @@ Sunday                   321 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 54 mins             ████████████░░░░░░░░░░░░░   48.10 % 
-Java                     34 mins             ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-Other                    25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 54 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-patrick-lee-has-an-album-54 mins             ████████████░░░░░░░░░░░░░   48.10 % 
-DSA-Practice             34 mins             ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-we-x20                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -128,7 +131,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 05:09:34 UTC
+ Last Updated on 31/10/2026 04:55:57 UTC
 <!--END_SECTION:waka-->
 </div>
 
